@@ -7,5 +7,4 @@
 
 ❤️ I love chess🏁 and swimming🏊‍
 🤔 I’m looking for help to find a company who needs interns in web development
-📫 How to reach me: 
-- ![github]([https://img.shields.io/badge/GitHub](https://github.com/Massoud5)-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+📫 How to reach me: massoud.shams2014@hotmail.com
