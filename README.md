@@ -8,9 +8,9 @@
 
 <div align="center">
  
-  🔭 I’m currently working on **a Java project**
+  🔭 I’m currently working on **DevOps**
 
-  🌱 I’m currently learning **Next.js, Tailwind, Express.js**
+  🌱 I’m currently learning **Java**
 
   🏊‍♂️ **I love swimming, and you'll often find me at the pool on weekends**
 
