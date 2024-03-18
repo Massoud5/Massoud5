@@ -2,17 +2,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=3BD474&lines=Hi+There!+👋;+I'm+Massoud+Shams!;" />
 </h1>
 
-<h3 align="center">A passionate IT developer</h3>
+<h3 align="center">A passionate IT</h3>
 
 <br/>
 
 <div align="center">
  
-  🔭 I’m currently working on **DevOps and a C# project**
+  🔭 I’m currently working on **a flutter project**
 
-  🌱 I’m currently learning **Java**
+  🌱 I’m currently learning **Qlik Sense**
 
-  🏊‍♂️ **I love swimming, and you'll often find me at the pool on weekends**
+  🏃🏽 **I love jogging in the morning**
 
   ♟️ **I enjoy playing chess in my free time**
             
@@ -35,9 +35,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,java,c" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,bootstrap,tailwind,sass,symfony,laravel" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,mysql,figma,git,typescript,linux,docker,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=php,python,java,dart" /><br>
+    <img src="https://skillicons.dev/icons?i=express,react,bootstrap,symfony,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,windows,docker,postman,gradle,ansible,pnpm" /><br>
 </div>
 
 <br/>
